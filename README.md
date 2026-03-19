@@ -133,10 +133,15 @@ Nodes → Regions/Zones
 Edges → Roads
 
 🎨 NODE STATES (VERY IMPORTANT)
+
 Color	Meaning	Action
+
 🟢 Green	Normal	No payout
+
 🟡 Yellow	Partial disruption	Time-loss payout
+
 🔴 Red	Fully blocked	Full payout
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⚙️ SYSTEM FLOW (STEP-BY-STEP)
@@ -326,6 +331,7 @@ Payments → Razorpay
 🏗 DEVELOPMENT PLAN
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 Phase 1:
 
 Graph system

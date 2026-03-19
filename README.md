@@ -31,7 +31,9 @@ Claim process → slow + fraud-prone
 👉 Income instability for millions
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 👤 STORY: MEET RAVI
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Ravi is a Swiggy delivery partner in Chennai:
@@ -43,7 +45,9 @@ Ravi is a Swiggy delivery partner in Chennai:
 💰 Depends fully on daily income
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚨 SCENARIO 1: RED ZONE (NO WORK POSSIBLE)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📡 Trigger:
 
@@ -70,7 +74,9 @@ Payout = (Avg Peak Income × Peak Hours Lost)
 👉 Full income protection when work is impossible
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ⚠️ SCENARIO 2: YELLOW ZONE (DELAYED WORK)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📡 Trigger:
 
@@ -99,7 +105,9 @@ Payout = Avg Hourly Income × Time Loss
 👉 We compensate for efficiency loss, not just complete failure
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ✅ SCENARIO 3: GREEN ZONE (NORMAL)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 No disruption
@@ -109,7 +117,9 @@ Optimal route available
 🟢 No payout required
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🧠 CORE INNOVATION: LIVE RISK GRAPH + GNN
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 We model the city as a Graph Neural Network (GNN):
@@ -126,7 +136,9 @@ Color	Meaning	Action
 🟡 Yellow	Partial disruption	Time-loss payout
 🔴 Red	Fully blocked	Full payout
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ⚙️ SYSTEM FLOW (STEP-BY-STEP)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔹 Step 1: Data Collection
 
@@ -169,7 +181,9 @@ Compare optimal vs alternate route
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💰 SMART EARNINGS MODEL (PEAK vs NORMAL)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Each worker’s earnings are split into:
@@ -195,7 +209,9 @@ Avg Normal Income/hour
 ➡ No payout
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🛡 FRAUD PREVENTION (ZERO-CLAIM MODEL)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✔ Multi-layer validation:
 
@@ -211,7 +227,9 @@ Avg Normal Income/hour
 All checks pass → ✅ APPROVED
 Any mismatch → ❌ BLOCKED
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📡 PARAMETRIC TRIGGERS
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Triggers are automatic & objective:
@@ -227,7 +245,9 @@ Triggers are automatic & objective:
 👉 No claims → No disputes → Instant payouts
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💳 WEEKLY PREMIUM MODEL
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Weekly Premium =
 Base Price
@@ -243,7 +263,9 @@ Affordable
 Dynamic
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🤖 AI/ML INTEGRATION
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔹 Risk Prediction
 
@@ -262,7 +284,9 @@ Anomaly detection
 Predict hourly earnings
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📱 WHY WEB PLATFORM (MVP)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 No installation required
@@ -274,7 +298,9 @@ Faster build
 👉 Future → Mobile App
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🧩 TECH STACK
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Frontend → React + Tailwind
@@ -290,7 +316,9 @@ Graph → NetworkX
 Payments → Razorpay
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏗 DEVELOPMENT PLAN
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🚀 Phase 1:
 
@@ -313,7 +341,9 @@ Scaling
 Personalization
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 WHAT MAKES SNAPINSURE UNIQUE
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔥 GNN-based insurance system
@@ -328,7 +358,9 @@ Personalization
 🔥 Built for gig economy
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏁 FINAL IMPACT
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SnapInsure doesn’t just insure workers — it guarantees their income in uncertain conditions

@@ -5,7 +5,9 @@ Instant Income Protection for Gig Workers — Powered by AI & Live Risk Graphs
 SnapInsure is a zero-claim, AI-powered parametric insurance system that uses a live graph neural network to detect disruptions and automatically compensate gig workers in real time.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🌍 THE PROBLEM
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Gig workers (Zomato, Swiggy, Zepto) depend on daily earnings.

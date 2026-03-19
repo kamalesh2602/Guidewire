@@ -149,6 +149,10 @@ Compare optimal vs alternate route
 Estimate delay
 
 Step 5: Automatic Payout Trigger
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/248b12fc-25b9-478b-93ec-36f37fefee90" />
+
+## 🏗 System Architecture
+
 
 Based on:
 
@@ -159,11 +163,6 @@ Zone type
 Peak vs normal hours
 
 👉 Entire process = Fully automated
-
-## 🏗 System Architecture
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/abbc480e-4dc1-40aa-92fb-cefd39132e8a" />
-
 
 💰 Smart Earnings Model (Peak vs Normal)
 

@@ -162,27 +162,8 @@ Peak vs normal hours
 
 ## 🏗 System Architecture
 
-User (Delivery Partner)
-        ↓
-Frontend (React Dashboard)
-        ↓
-Backend (FastAPI)
-        ↓
------------------------------------
-| Data Layer                      |
-| - Weather API                  |
-| - Google Maps API              |
-| - Social Scraping (NLP)        |
------------------------------------
-        ↓
-AI Engine
-- Risk Classification (Green/Yellow/Red)
-- Time Loss Calculation
-- Fraud Detection
-        ↓
-Database (MongoDB)
-        ↓
-Payment Service (Razorpay Test Mode)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/abbc480e-4dc1-40aa-92fb-cefd39132e8a" />
+
 
 💰 Smart Earnings Model (Peak vs Normal)
 

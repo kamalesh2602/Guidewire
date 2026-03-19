@@ -49,6 +49,7 @@ Ravi is a Swiggy delivery partner in Chennai:
 🚨 SCENARIO 1: RED ZONE (NO WORK POSSIBLE)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📡 Trigger:
 
 Weather API detects heavy rain
@@ -78,6 +79,7 @@ Payout = (Avg Peak Income × Peak Hours Lost)
 ⚠️ SCENARIO 2: YELLOW ZONE (DELAYED WORK)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📡 Trigger:
 
 Road blocked (Maps API)
@@ -140,6 +142,7 @@ Color	Meaning	Action
 ⚙️ SYSTEM FLOW (STEP-BY-STEP)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔹 Step 1: Data Collection
 
 🌦 Weather API
@@ -213,6 +216,7 @@ Avg Normal Income/hour
 🛡 FRAUD PREVENTION (ZERO-CLAIM MODEL)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ✔ Multi-layer validation:
 
 📍 GPS = IP match
@@ -249,6 +253,7 @@ Triggers are automatic & objective:
 💳 WEEKLY PREMIUM MODEL
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Weekly Premium =
 Base Price
 + Zone Risk Factor
@@ -267,6 +272,7 @@ Dynamic
 🤖 AI/ML INTEGRATION
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔹 Risk Prediction
 
 Predict disruptions
